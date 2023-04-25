@@ -15,7 +15,7 @@ class About(Me):
     def __init__(self):
         self.name = "Kamil"
         self.role = "Developer"
-        self.language_spoken = ["pl_PL", "en_GB"]
+        self.languages_spoken = ["pl_PL", "en_GB"]
         
         self.programming_languages = ["python", "javascript", "php"]
         self.frameworks = ["django", "flask", "symfony"]
