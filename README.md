@@ -1,6 +1,6 @@
 <h2>Hi, I'm Kamil! 👋</h2>
 
-<p><em>Junior Full-Stack Developer at <a href="https://www.codelines.io" target="_blank">codelines.io</a>
+<p><em>Full-Stack Developer at <a href="https://www.codelines.io" target="_blank">codelines.io</a>
     </br>
 <p><em>Web Developer at <a href="https://www.kolaboracja.com" target="_blank">kolaboracja.com</a>
 
